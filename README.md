@@ -3,6 +3,7 @@
 ## Features
 
 * Home page with welcome message
+* splash screen 
 * Login page
 * Task Manager page
 * Focus Timer page
@@ -17,7 +18,7 @@
 
 ## Live Website
 
-https://bootstrapproductivitytracker.netlify.app/
+https://haran-mk.github.io/firstpage/
 
 ## GitHub Repository
 
